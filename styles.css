@@ -1,30 +1,30 @@
-
 /* Your CSS Code here. */
-#Primary-button{
+#button-1{
 	background-color:blue;
 	color:white;
 	height:25px;
 	
 }
-#large-button{
+#button-3{
 	background-color:green;
 	color:white;
 	height:30px;
 }
-#small-button{
+#button-4{
 	background-color:red;
 	color:white;
 	height:17px;
 }
-#width-button{
+#button-5{
 	background-color:yellow;
 	width:100%;
 	border:1px;
 }
-.info-button{
+#button-6{
 	background-color:#49DDF8;
     height:30px;
 }
-#light-button{
+#button-7{
 background-color:#F9F8FA;
 border:1px solid ;
+	
